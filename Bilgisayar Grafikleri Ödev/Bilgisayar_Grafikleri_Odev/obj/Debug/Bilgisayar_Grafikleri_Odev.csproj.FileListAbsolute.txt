@@ -1,0 +1,10 @@
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Ödev\Bilgisayar_Grafikleri_Odev\bin\Debug\Bilgisayar_Grafikleri_Odev.exe.config
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Ödev\Bilgisayar_Grafikleri_Odev\bin\Debug\Bilgisayar_Grafikleri_Odev.exe
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Ödev\Bilgisayar_Grafikleri_Odev\bin\Debug\Bilgisayar_Grafikleri_Odev.pdb
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Ödev\Bilgisayar_Grafikleri_Odev\obj\Debug\Bilgisayar_Grafikleri_Odev.csproj.AssemblyReference.cache
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Ödev\Bilgisayar_Grafikleri_Odev\obj\Debug\Bilgisayar_Grafikleri_Odev.Form1.resources
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Ödev\Bilgisayar_Grafikleri_Odev\obj\Debug\Bilgisayar_Grafikleri_Odev.Properties.Resources.resources
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Ödev\Bilgisayar_Grafikleri_Odev\obj\Debug\Bilgisayar_Grafikleri_Odev.csproj.GenerateResource.cache
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Ödev\Bilgisayar_Grafikleri_Odev\obj\Debug\Bilgisayar_Grafikleri_Odev.csproj.CoreCompileInputs.cache
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Ödev\Bilgisayar_Grafikleri_Odev\obj\Debug\Bilgisayar_Grafikleri_Odev.exe
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri Ödev\Bilgisayar_Grafikleri_Odev\obj\Debug\Bilgisayar_Grafikleri_Odev.pdb
